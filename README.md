@@ -11,8 +11,7 @@
 2. 发邮件
 
 #### android下载地址
-
-![塔克](https://github.com/feng031793/crest/blob/master/android.png)
+![android下载](https://github.com/feng031793/crest/blob/master/android.png)
 
 #### web客户端地址
 
@@ -20,11 +19,13 @@ http://www.xdd98.com:38081/
 
 
 #### android客户端截图
+![ios-demo](http://static.wildfirechat.cn/ios-demo.gif)
 
-<img src="https://github.com/feng031793/crest/blob/master/web.PNG" width = 70% height = 50% />
+<img src="https://github.com/feng031793/crest/blob/master/1.PNG" width = 50% height = 50% />
 
 #### web客户端截图
-<img src="https://github.com/feng031793/crest/blob/master/1.PNG" width = 50% height = 50% />
+![ios-demo](http://static.wildfirechat.cn/ios-demo.gif)
+<img src="https://github.com/feng031793/crest/blob/master/web.PNG" width = 50% height = 50% />
 
 
 
