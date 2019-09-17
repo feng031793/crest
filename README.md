@@ -12,7 +12,7 @@
 
 #### android下载地址
 
-![塔克](http://static.wildfirechat.cn/download_qrcode.png)
+![塔克](https://github.com/feng031793/crest/blob/master/android.png)
 
 #### web客户端地址
 
@@ -20,25 +20,11 @@ http://www.xdd98.com:38081/
 
 
 #### 应用截图
-![ios-demo](http://static.wildfirechat.cn/ios-demo.gif)
+![web客户端](http://static.wildfirechat.cn/ios-demo.gif)
 
-<img src="http://static.wildfirechat.cn/ios-message-view.png" width = 50% height = 50% />
+<img src="https://github.com/feng031793/crest/blob/master/web.PNG" width = 70% height = 50% />
 
 <img src="http://static.wildfirechat.cn/ios-contact-view.png" width = 50% height = 50% />
 
-<img src="http://static.wildfirechat.cn/ios-discover-view.png" width = 50% height = 50% />
 
-<img src="http://static.wildfirechat.cn/ios-settings-view.png" width = 50% height = 50% />
-
-<img src="http://static.wildfirechat.cn/ios-messagelist-view.png" width = 50% height = 50% />
-
-<img src="http://static.wildfirechat.cn/ios-chat-setting-view.png" width = 50% height = 50% />
-
-<img src="http://static.wildfirechat.cn/ios-takephoto-view.png" width = 50% height = 50% />
-
-<img src="http://static.wildfirechat.cn/ios-record-voice-view.png" width = 50% height = 50% />
-
-<img src="http://static.wildfirechat.cn/ios-location-view.png" width = 50% height = 50% />
-
-<img src="http://static.wildfirechat.cn/ios-voip-view.png" width = 50% height = 50% />
 
