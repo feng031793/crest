@@ -8,7 +8,7 @@
 
 ### 问题交流
 1. 在GitHub提issue
-2. 发邮箱
+2. 发邮件
 
 #### android下载地址
 
@@ -19,12 +19,12 @@
 http://www.xdd98.com:38081/
 
 
-#### 应用截图
-![web客户端](http://static.wildfirechat.cn/ios-demo.gif)
+#### android客户端截图
 
 <img src="https://github.com/feng031793/crest/blob/master/web.PNG" width = 70% height = 50% />
 
-<img src="http://static.wildfirechat.cn/ios-contact-view.png" width = 50% height = 50% />
+#### web客户端截图
+<img src="https://github.com/feng031793/crest/blob/master/1.PNG" width = 50% height = 50% />
 
 
 
